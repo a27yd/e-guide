@@ -49,9 +49,7 @@ E-Guide is a mobile application built with **Flutter** to help visitors explore 
 
 ### 🌐 Socials | تواصل معي
 📧 Email: alialifillif2003@gmail.com  
-💼 LinkedIn: link-here  
-🐦 Twitter/X: link-here  
-📱 Telegram: link-here
+
 
 ---
 
